@@ -1,6 +1,8 @@
 const mainController = {
+    
     home: (req, res) => {
-     const menu = [
+    
+        const menu = [
          {
             nombre: "Carpaccio fresco", 
             descripcion: "Entrada Carpaccio de salmón con cítricos",
